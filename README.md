@@ -25,7 +25,5 @@ Invariant Representations：提高模型对输入变化的稳健性是计算机�
 
 Depth Upsampling：需要直接输入深度或者其他来自高分辨率图像的监督。
 
-3.Method
 
-输入为x，o代表对应于输入x的二值1（有观测值）或者0（没有观测值）。标准CNN的卷积层输出为：
 
