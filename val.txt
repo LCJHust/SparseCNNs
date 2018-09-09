@@ -1,0 +1,10 @@
+/opt/hdfs/user/caojia.liang/Data_navnet/A_rawImg/1521449054.792694.png /opt/hdfs/user/caojia.liang/Data_navnet/A_point/1521449054.910976.png
+/opt/hdfs/user/caojia.liang/Data_navnet/A_rawImg/1521449057.281664.png /opt/hdfs/user/caojia.liang/Data_navnet/A_point/1521449057.758516.png
+/opt/hdfs/user/caojia.liang/Data_navnet/A_rawImg/1521449059.621882.png /opt/hdfs/user/caojia.liang/Data_navnet/A_point/1521449060.811114.png
+/opt/hdfs/user/caojia.liang/Data_navnet/A_rawImg/1521449062.802750.png /opt/hdfs/user/caojia.liang/Data_navnet/A_point/1521449072.284955.png
+/opt/hdfs/user/caojia.liang/Data_navnet/A_rawImg/1521449072.563258.png /opt/hdfs/user/caojia.liang/Data_navnet/A_point/1521449075.936741.png
+/opt/hdfs/user/caojia.liang/Data_navnet/A_rawImg/1521449076.015378.png /opt/hdfs/user/caojia.liang/Data_navnet/A_point/1521449078.488655.png
+/opt/hdfs/user/caojia.liang/Data_navnet/A_rawImg/1521449077.824839.png /opt/hdfs/user/caojia.liang/Data_navnet/A_point/1521449085.188044.png
+/opt/hdfs/user/caojia.liang/Data_navnet/A_rawImg/1521449078.954228.png /opt/hdfs/user/caojia.liang/Data_navnet/A_point/1521449090.471297.png
+/opt/hdfs/user/caojia.liang/Data_navnet/A_rawImg/1521449081.120887.png /opt/hdfs/user/caojia.liang/Data_navnet/A_point/1521449094.022725.png
+/opt/hdfs/user/caojia.liang/Data_navnet/A_rawImg/1521449087.302776.png /opt/hdfs/user/caojia.liang/Data_navnet/A_point/1521449096.537136.png
